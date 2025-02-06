@@ -1,0 +1,12 @@
+{
+  "name": "amruthaconveter",
+  "version": "1.0.0",
+  "description": "Devoops WorkShop",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
